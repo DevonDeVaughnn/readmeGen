@@ -71,7 +71,7 @@ inquirer.prompt([
     //Creates function to generate the md file
     function genMarkdown(res) {
         return` 
-            # ${res.title}
+# ${res.title}
 ## Email
 
 ${ 'Contact me at: ' + res.email}

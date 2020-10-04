@@ -1,12 +1,12 @@
  
-# README Homework
+# README.md Homework
 ## Email
 
 Contact me at: devondevaughnn@gmail.com
 
 ## Description
 
-* This project generates README.md files.
+ * This project creates README files based off of information entered through prompts.
 
 ## Table of Contents
 
@@ -22,21 +22,21 @@ Contact me at: devondevaughnn@gmail.com
 
 ## Tests
 
-* The test included generating this README.md file with the created README generator.
+* I have generated the README file you are currently reading, with the program.
 
 ## Installation
 
-* There is no installation necessary.
+* There is no installation necessary
        
 ## Usage 
 
-* Follow the prompts and answer as clearly as possible.
+* Simply answer the questions when asked and the program does the heavy lifting for you.
 
 ## License
 
-GNU AGPLv3
+Mozilla Public License 2.0
 
 ## Credits
 
 Contributors:
-* There are no further contributions to add. 
+* There are no other contributors to the project. 
